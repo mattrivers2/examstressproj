@@ -1,6 +1,6 @@
 # Wearable Exam-Stress Analysis
 
-In this project for my Applied Data Science class, my partner (Melissa B.) and I used wearable sensor data recorded during real university exams to test whether physiological signals can predict student exam performance.
+In this class project, my partner (Melissa B.) and I used wearable sensor data recorded during real university exams to test whether physiological signals can predict student exam performance.
 
 **Team:** Melissa Bernal Garcia & Matthew Rivers
 
